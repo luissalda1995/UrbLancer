@@ -1,0 +1,9 @@
+#btnRegistro, #btnInicioSesion{
+	color:white;
+}
+
+textarea{
+	resize:none;
+	width:400px;
+	height:100px
+}
